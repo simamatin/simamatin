@@ -3,7 +3,7 @@
 ## 😊 about Me:
 - Front-end Developer 💻
 - Learning React
-- Student of Allame Tabatabai university
+- Student of Allame Tabatabai university <img src="" width="30px"/>
 ---
 
 ## 🌐 Skills:
