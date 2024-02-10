@@ -22,12 +22,12 @@
 </a>
 ---
 
-## ⭐ My Projects Languages:
+## ⭐ My projects languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simamatin" />
 
 ---
 
-## 📧 Connect Me:
+## 📧 Connect me:
 <p align="center">
   <a href="https://simamatin.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email:-simamatin.dev@gmail.com-6390dd?style=flat&logo=gmail">
