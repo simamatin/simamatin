@@ -38,8 +38,3 @@
   <img src="https://img.shields.io/badge/Telegram:-t.me/SimaMatin-6390dd?style=flat&logo=telegram">
   </a>  
 </p>
-
-
-
-
-
