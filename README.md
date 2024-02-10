@@ -29,10 +29,17 @@
 
 ## 📧 Connect Me:
 <p align="center">
-<a href="https://simamatin.dev@gmail.com">
+  <a href="https://simamatin.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email:-simamatin.dev@gmail.com-6390dd?style=flat&logo=gmail">
-</a>  
+  </a> 
 </p>
+<p align="center">
+  <a href="https://simamatin.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Telegram:-@simamatin-6390dd?style=flat&logo=telegram">
+  </a>  
+</p>
+
+
 
 
 
