@@ -23,12 +23,13 @@
 
 ## ⭐ My Projects Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simamatin" />
+
 ---
 
 ## 📧 Connect Me:
 <p align="center">
 <a href="https://simamatin.dev@gmail.com">
-  <img src="https://img.shilds.io/badge/Email:-simamatin.dev@gmail.com-turquoise?style=flat&logo=gmail">
+  <img src="https://img.shields.io/badge/Email:-simamatin.dev@gmail.com-6390dd?style=flat&logo=gmail">
 </a>  
 </p>
 
