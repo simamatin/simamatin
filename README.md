@@ -6,6 +6,7 @@
 
 ## My Projects Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simamatin)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simamatin)
+> `Sima`
 
 
