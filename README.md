@@ -2,7 +2,7 @@
 
 ## 😊 about Me:
 - Front-end Developer 💻
-- Learning React ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Learning React
 - Master's degree from Allameh Tabatabai university <img src="https://github.com/simamatin/simamatin/blob/main/1636796188-atu-logo.jpg?raw=true" width="30px"/>
 ---
 
