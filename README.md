@@ -12,7 +12,7 @@
 - Writing ✍🏾
 - Dancing 🩰
 
-##  GitHub Stats:
+## <img src="https://github.com/simamatin/simamatin/blob/main/icons8-github-30.png?raw=true" /> GitHub Stats:
 <a href="https://github.com/simamatin">
 <img src="https://github-readme-stats.vercel.app/api?username=simamatin&show_icons=true&theme=tokyonight" />
 
