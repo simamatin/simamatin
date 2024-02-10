@@ -25,9 +25,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simamatin" />
 ---
 
+## 📧 Connect Me:
 <p align="center">
-<a>
-  <img src="">
+<a href="https://simamatin.dev@gmail.com">
+  <img src="https://img.shilds.io/badge/Email:-simamatin.dev@gmail.com-turquoise?style=flat&logo=gmail">
 </a>  
 </p>
 
