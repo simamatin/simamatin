@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://simamatin.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Telegram:-@simamatin-6390dd?style=flat&logo=telegram">
+  <img src="https://img.shields.io/badge/Telegram:-t.me/simamatin-6390dd?style=flat&logo=telegram">
   </a>  
 </p>
 
