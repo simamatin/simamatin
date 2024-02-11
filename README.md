@@ -17,7 +17,7 @@
 - Dancing 🩰
 ---
 
-## <img src="https://github.com/simamatin/simamatin/blob/main/icons8-github-30.png?raw=true" /> GitHub Stats:
+## <img src="https://github.com/simamatin/simamatin/blob/main/icons8-github-30.png?raw=true" /> GitHub Profile Stats:
 <a href="https://github.com/simamatin">
 <img src="https://github-readme-stats.vercel.app/api?username=simamatin&show_icons=true&theme=tokyonight" />
 </a>
@@ -28,7 +28,7 @@
 
 ---
 
-## 📧 Contact me:
+## 📧 Contacts:
 <p align="center">
   <a href="https://simamatin.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email:-simamatin.dev@gmail.com-6390dd?style=flat&logo=gmail">
