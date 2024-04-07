@@ -35,4 +35,9 @@
   <img src="https://img.shields.io/badge/Email:-simamatin.dev@gmail.com-5c85cb?style=flat&logo=gmail">
   </a> 
 </p>
+<p align="center">
+  <a href="https://simamatin.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email:-simamatin.dev@gmail.com-5c85cb?style=flat&logo=gmail">
+  </a> 
+</p>
 
