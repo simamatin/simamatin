@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://t.me/Sima/">
-  <img src="https://img.shields.io/badge/Telegram-@Sima-blue?style=flat&logo=telegram">
+  <img src="https://img.shields.io/badge/Telegram-@SimaMatin-blue?style=flat&logo=telegram">
   </a> 
 </p>
 
