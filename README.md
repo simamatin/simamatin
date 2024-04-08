@@ -1,8 +1,8 @@
-# Hello there, I am Sima Matin.
+# Hello there, I am Sima Matin. 🙋‍♀️
 
 ## 😊 about Me:
 - Front-end Developer 💻
-- Learning React
+- Learning React 👩🏾‍💻
 - Master's degree from Allameh Tabatabai university <img src="https://github.com/simamatin/simamatin/blob/main/1636796188-atu-logo.jpg?raw=true" width="30px"/>
 ---
 
