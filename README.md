@@ -1,4 +1,4 @@
-# Hello there, I am Sima Matin. 🙋🏾‍♀️
+# Hello there, I am Sima Matin.
 
 ## 😊 about Me:
 - Front-end Developer 💻
