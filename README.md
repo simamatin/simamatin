@@ -48,3 +48,8 @@
   </a> 
 </p>
 
+
+## Tools:
+
+<span>ICDL</span>
+<span>Adobe Photoshop</span>
