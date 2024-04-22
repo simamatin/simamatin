@@ -67,6 +67,12 @@
 </p>
 
 <p align="center">
+  <a href="https://linkedin/Sima Matin/">
+  <img src="https://img.shields.io/badge/Linkedin-@SimaMatin-blue?style=flat&logo=linkedin">
+  </a> 
+</p>
+
+<p align="center">
   <a href="https://instagram.com/simamatin/">
   <img src="https://img.shields.io/badge/Instagram-@simamatin-red?style=flat&logo=instagram">
   </a> 
