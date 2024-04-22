@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://linkedIn/SimaMatin/">
-  <img src="https://img.shields.io/badge/LinkedIn-SimaMatin-blue?style=flat&logo=linkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-@Sima Matin-blue?style=flat&logo=linkedIn">
   </a> 
 </p>
 
