@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedIn/SimaMatin/">
+  <a href="https://www.linkedin.com/in/sima-matin-356872301/">
   <img src="https://img.shields.io/badge/LinkedIn: -Sima Matin-blue?style=flat&logo=linkedIn">
   </a> 
 </p>
@@ -75,12 +75,6 @@
 <p align="center">
   <a href="https://instagram.com/simamatin/">
   <img src="https://img.shields.io/badge/Instagram: -simamatin-red?style=flat&logo=instagram">
-  </a> 
-</p>
-
-<p align="center">
-  <a href="https://t.me/Sima/">
-  <img src="https://img.shields.io/badge/Telegram: -@SimaMatin-blue?style=flat&logo=telegram">
   </a> 
 </p>
 
