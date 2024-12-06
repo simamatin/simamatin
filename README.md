@@ -1,4 +1,4 @@
-# Hello there, I am Sahar. 🙋‍♀️
+# Hello there, I am Sima. 🙋‍♀️
 
 ## 😊 about Me:
 
@@ -35,7 +35,8 @@
 ## ❤️ My favorite hobbies:
 
 - Coding 👩🏾‍💻
- 
+
+ - Dancing 🩰
 ---
 
 
