@@ -9,14 +9,6 @@
 
 ---
 
-
-## ☎️ Contact me:
-
-simamatin.dev@gmail.com
-
-
----
-
 ## 🌐 Programming and markup languages:
 
 
