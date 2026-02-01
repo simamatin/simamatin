@@ -1,4 +1,4 @@
-# Hello there, I am Sima. 🙋‍♀️
+# Hello there, I am Mina. 🙋‍♀️
 
 ## 😊 about Me:
 
