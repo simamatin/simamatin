@@ -38,7 +38,7 @@
 
 
 ## <img src="https://github.com/minajam/minajam/blob/main/icons8-github-30.png?raw=true" /> GitHub Profile Stats:
-<a href="https://github.com/simamatin">
+<a href="https://github.com/minajam">
 <img src="https://github-readme-stats.vercel.app/api?username=minajam&show_icons=true&theme=tokyonight" />
 </a>
 
