@@ -49,7 +49,7 @@
 
 ## ⭐ My projects languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simamatin"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minajam"/>
 
 ---
 
