@@ -34,8 +34,6 @@
 ## ❤️ My favorite hobbies:
 
 - Coding 👩🏾‍💻
-
- - Dancing 🩰
 ---
 
 
